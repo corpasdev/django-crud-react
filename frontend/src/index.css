@@ -1,0 +1,9 @@
+.form-task {
+    display: flex; 
+    gap: 20px;
+    background-color: beige;
+    flex-flow: column nowrap;
+    max-width: 600px;
+    padding: 20px;
+    margin: 20px 10px;
+}
